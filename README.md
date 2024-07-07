@@ -53,7 +53,6 @@ In diesem Projekt wird der K Means Clustering Algorithmus angewendet, um US-Univ
 
 
 **Explorative Datensanalyse:**
-
 In diesem Teil wird die explorative Datenanalyse unter Verwendung der Seaborn-Bibliothek ausgeführt. Es werden unterschiedliche Diagramme generiert, um Zusammenhänge und Muster zu entdecken:
 - Scatterplot-Erstellung: “Grad.Rate” vs. “Room.Board”, eingefärbt nach “Private”
 - Scatterplot-Erstellung: “F.Undergrad” vs. “Outstate”, eingefärbt nach “Private”
@@ -64,9 +63,7 @@ In diesem Teil wird die explorative Datenanalyse unter Verwendung der Seaborn-Bi
 
 
 **K Means Cluster:**
-
 Ein K-Means-Clustering-Modell mit 2 Clustern wird erstellt und auf die Daten angewendet.
 
 **Vorhersagen und Auswertung:**
-
 Die Ergebnisse zeigen, dass das Modell eine Genauigkeit von 22% hat, was darauf hindeutet, dass es Raum für Verbesserungen gibt. Insbesondere scheint das Modell Schwierigkeiten zu haben, private Universitäten korrekt zu klassifizieren
