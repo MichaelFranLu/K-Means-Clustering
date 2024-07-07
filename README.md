@@ -20,7 +20,7 @@ Ausführen in Google Colab ebenfalls möglich & performatnter:
 
 
 
-**Dokumentation - K-Means-Clustering**
+**Dokumentation - K-Means-Clustering:**
 
 In diesem Projekt wird der K Means Clustering Algorithmus angewendet, um US-Universitäten in private und öffentliche Einrichtungen zu kategorisieren. Obwohl die tatsächliche Zuordnung der Universitäten bekannt ist, wird sie ignoriert, um den Algorithmus als Unsupervised Learning Methode zu nutzen. Die Leistung des Algorithmus wird anhand der Zuteilung bewertet, wobei die Confusion Matrix und der Classification Report nur theoretische Auswertungen darstellen.
 - Private: Dummy Varaible mit "Yes" für private und "No" für öffentliche Einrichtungen
@@ -43,16 +43,16 @@ In diesem Projekt wird der K Means Clustering Algorithmus angewendet, um US-Univ
 - Grad.Rate: Abschlussrate
 
 
-**Benötigte Libraries instalieren**
+**Benötigte Libraries instalieren:**
 - pandas
 - numpy
 - matplotlib
 - seaborn
 
-**Daten einlesen "College_Data.csv"**
+**Daten einlesen "College_Data.csv":**
 
 
-**Explorative Datensanalyse**
+**Explorative Datensanalyse:**
 
 In diesem Teil wird die explorative Datenanalyse unter Verwendung der Seaborn-Bibliothek ausgeführt. Es werden unterschiedliche Diagramme generiert, um Zusammenhänge und Muster zu entdecken:
 - Scatterplot-Erstellung: “Grad.Rate” vs. “Room.Board”, eingefärbt nach “Private”
@@ -63,9 +63,10 @@ In diesem Teil wird die explorative Datenanalyse unter Verwendung der Seaborn-Bi
 - Datenbereinigung: Setzen der Abschlussrate (“Grad.Rate”) auf 100 für die identifizierte Universität
 
 
-**K Means Cluster**
+**K Means Cluster:**
 
 Ein K-Means-Clustering-Modell mit 2 Clustern wird erstellt und auf die Daten angewendet.
 
-**Vorhersagen und Auswertung**
+**Vorhersagen und Auswertung:**
+
 Die Ergebnisse zeigen, dass das Modell eine Genauigkeit von 22% hat, was darauf hindeutet, dass es Raum für Verbesserungen gibt. Insbesondere scheint das Modell Schwierigkeiten zu haben, private Universitäten korrekt zu klassifizieren
