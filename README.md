@@ -18,6 +18,8 @@ Ausführen in Google Colab ebenfalls möglich & performatnter:
 </a>
 
 
+
+
 **Dokumentation - K-Means-Clustering**
 
 In diesem Projekt wird der K Means Clustering Algorithmus angewendet, um US-Universitäten in private und öffentliche Einrichtungen zu kategorisieren. Obwohl die tatsächliche Zuordnung der Universitäten bekannt ist, wird sie ignoriert, um den Algorithmus als Unsupervised Learning Methode zu nutzen. Die Leistung des Algorithmus wird anhand der Zuteilung bewertet, wobei die Confusion Matrix und der Classification Report nur theoretische Auswertungen darstellen.
