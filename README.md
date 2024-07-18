@@ -1,17 +1,17 @@
 # K-Means-Clustering
 
-**Anleitung zum ausführen des Notebooks:**
+**Anleitung zum Ausführen des Notebooks:**
 1. Klicken Sie auf das MyBinder Batch ↓
-2. Warten Sie bis sich das Notebook geöffnet hat (bis zu 15min)
-3. Das Notebook wird direkt aufgerufen und kann durch verwenden des Play-Button schrittweise ausgeführt werden
+2. Warten Sie bis sich das Notebook geöffnet hat (kann bis zu 15 Minuten)
+3. Das Notebook wird direkt aufgerufen und kann durch Verwenden des Play-Button schrittweise ausgeführt werden
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MichaelFranLu/Logistic-Regression/master?labpath=3-Logistische_Regression_Projekt-Loesung.ipynb)
 
 **Update:**
-Ausführen in Google Colab ebenfalls möglich & performatnter:
+Ausführen in Google Colab ebenfalls möglich & performanter:
 1. Klicken Sie auf den Google Colab Batch ↓
-2. Warten Sie bis sich das Notebook geöffnet hat (maximal 10sek)
-3. Das Notebook wird direkt aufgerufen und kann durch verwenden des Play-Button schrittweise ausgeführt werden
+2. Warten Sie bis sich das Notebook geöffnet hat (maximal 10 Sekunden)
+3. Das Notebook wird direkt aufgerufen und kann durch Verwenden des Play-Button schrittweise ausgeführt werden
 
 <a target="_blank" href="https://colab.research.google.com/github/MichaelFranLu/K-Means-Clustering/blob/main/3-K_Means_Clustering_Projekt-Loesung.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
@@ -52,7 +52,7 @@ In diesem Projekt wird der K Means Clustering Algorithmus angewendet, um US-Univ
 **Daten einlesen "College_Data.csv":**
 
 
-**Explorative Datensanalyse:**
+**Explorative Datenanalyse:**
 In diesem Teil wird die explorative Datenanalyse unter Verwendung der Seaborn-Bibliothek ausgeführt. Es werden unterschiedliche Diagramme generiert, um Zusammenhänge und Muster zu entdecken:
 - Scatterplot-Erstellung: “Grad.Rate” vs. “Room.Board”, eingefärbt nach “Private”
 - Scatterplot-Erstellung: “F.Undergrad” vs. “Outstate”, eingefärbt nach “Private”
